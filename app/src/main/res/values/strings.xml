@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcs2Numberss</string>
+    <string name="Plus">plus</string>
+    <string name="Minus">minus</string>
+    <string name="Multiply">multiply</string>
+    <string name="Divide">divide</string>
+    <string name="Result">result</string>
+</resources>
